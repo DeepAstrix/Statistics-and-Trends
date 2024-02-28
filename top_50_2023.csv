@@ -1,0 +1,51 @@
+artist_name,track_name,album_release_date,genres,danceability,tempo,duration_ms,popularity
+Miley Cyrus,Flowers,18-08-2023,['pop'],0.706,118.048,200600,94
+SZA,Kill Bill,08-12-2022,"['pop', 'r&b', 'rap']",0.644,88.98,153947,86
+Harry Styles,As It Was,20-05-2022,['pop'],0.52,173.93,167303,95
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),03-11-2023,['k-pop'],0.79,124.987,183551,90
+Eslabon Armado,Ella Baila Sola,28-04-2023,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",0.668,147.989,165671,86
+Taylor Swift,Cruel Summer,23-08-2019,['pop'],0.552,169.994,178427,99
+Metro Boomin,Creepin' (with The Weeknd & 21 Savage),02-12-2022,['rap'],0.715,97.95,221520,91
+Rema,Calm Down (with Selena Gomez),27-04-2023,"['afrobeats', 'nigerian pop']",0.799,107.008,239318,90
+Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",11-01-2023,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",0.778,122.104,218289,85
+Taylor Swift,Anti-Hero,21-10-2022,['pop'],0.637,97.008,200690,92
+Arctic Monkeys,I Wanna Be Yours,09-09-2013,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",0.464,67.528,183956,96
+KAROL G,TQG,24-02-2023,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",0.72,179.974,199440,88
+Yng Lvcas,La Bebe - Remix,17-03-2023,"['reggaeton', 'urbano mexicano']",0.812,169.922,234353,89
+David Guetta,I'm Good (Blue),26-08-2022,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",0.561,128.04,175238,92
+The Weeknd,Die For You,24-11-2016,"['canadian contemporary r&b', 'canadian pop', 'pop']",0.586,133.629,260253,85
+Grupo Frontera,un x100to,25-08-2023,['musica chihuahuense'],0.571,83.827,194563,85
+Sam Smith,Unholy (feat. Kim Petras),27-01-2023,"['pop', 'uk pop']",0.712,131.199,156943,84
+Manuel Turizo,La Bachata,17-03-2023,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",0.835,124.98,162638,85
+PinkPantheress,Boy's a liar Pt. 2,10-11-2023,['bedroom pop'],0.696,132.962,131013,84
+David Kushner,Daylight,14-04-2023,"['gen z singer-songwriter', 'singer-songwriter pop']",0.508,130.09,212954,94
+Tom Odell,Another Love,24-06-2013,['chill pop'],0.445,122.769,244360,72
+The Weeknd,Starboy,25-11-2016,"['canadian contemporary r&b', 'canadian pop', 'pop']",0.679,186.003,230453,95
+Yandel,Yandel 150,13-01-2023,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",0.783,167.968,216148,83
+FIFTY FIFTY,Cupid - Twin Ver.,22-09-2023,['k-pop girl group'],0.783,120.018,174253,75
+The Weeknd,Die For You (with Ariana Grande) - Remix,14-03-2023,"['canadian contemporary r&b', 'canadian pop', 'pop']",0.575,67.033,232857,85
+OneRepublic,I Ain't Worried,13-05-2022,"['piano rock', 'pop']",0.704,139.994,148486,92
+d4vd,Here With Me,26-05-2023,['bedroom pop'],0.571,132.025,242485,90
+Morgan Wallen,Last Night,03-03-2023,['contemporary country'],0.492,203.759,163855,84
+JVKE,golden hour,23-09-2022,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",0.515,94.467,209260,83
+Stephen Sanchez,Until I Found You (with Em Beihold) - Em Beihold Version,22-04-2022,['gen z singer-songwriter'],0.551,101.19,176440,90
+Myke Towers,LALA,23-03-2023,"['reggaeton', 'trap latino', 'urbano latino']",0.708,91.986,197920,93
+Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52",06-07-2022,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",0.621,128.033,198938,88
+Ozuna,Hey Mor,07-10-2022,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",0.901,98.002,196600,87
+Feid,CLASSY 101,31-03-2023,"['colombian pop', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",0.859,100.065,195987,87
+Doja Cat,Paint The Town Red,20-09-2023,"['dance pop', 'pop']",0.864,99.974,230480,93
+The Neighbourhood,Sweater Weather,19-04-2013,"['modern alternative rock', 'modern rock', 'pop']",0.612,124.053,240400,93
+SZA,Snooze,09-12-2022,"['pop', 'r&b', 'rap']",0.559,143.008,201800,93
+Taylor Swift,Blank Space,27-10-2014,['pop'],0.753,96.006,231827,78
+The Weeknd,Blinding Lights,20-03-2020,"['canadian contemporary r&b', 'canadian pop', 'pop']",0.514,171.005,200040,93
+Bad Bunny,WHERE SHE GOES,13-10-2023,"['reggaeton', 'trap latino', 'urbano latino']",0.651,143.992,231704,84
+Jimin,Like Crazy,24-03-2023,['k-pop'],0.629,120.001,212241,93
+Eminem,Mockingbird,12-11-2004,"['detroit hip hop', 'hip hop', 'rap']",0.637,84.039,250760,91
+RAYE,Escapism.,03-02-2023,"['uk contemporary r&b', 'uk pop']",0.538,96.107,272373,76
+Olivia Rodrigo,vampire,08-09-2023,['pop'],0.511,138.005,219724,95
+Peso Pluma,PRC,29-06-2023,"['corridos tumbados', 'sad sierreno']",0.784,138.078,184066,82
+"Tyler, The Creator",See You Again (feat. Kali Uchis),21-07-2017,"['hip hop', 'rap']",0.558,78.558,180387,92
+Bad Bunny,Me Porto Bonito,06-05-2022,"['reggaeton', 'trap latino', 'urbano latino']",0.911,92.005,178567,89
+NewJeans,OMG,02-01-2023,"['k-pop', 'k-pop girl group']",0.804,126.956,212253,87
+Natanael Cano,AMG,30-06-2023,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",0.772,136.175,174943,81
+d4vd,Romantic Homicide,20-07-2022,['bedroom pop'],0.571,132.052,132631,91
